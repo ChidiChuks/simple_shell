@@ -22,7 +22,7 @@ char *_strcpy(char *dest, char *src)
 /**
  * _strdup - duplicates a string
  * @str: the string to duplicate
- * Return: pointer to the duplicated string
+ * Return: pointer to the duplicated string (NULL)
 */
 char *_strdup(const char *str)
 {
