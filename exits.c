@@ -34,6 +34,7 @@ char *_strncpy(char *dest, char *src, int n)
  * *_strncat - Concatenates two strings
  * @dest: The destination (first string)
  * @src: The source (second string)
+ * @n: The number integer (thrid argument)
  * Return: The concatenated string returned
  */
 char *_strncat(char *dest, char *src, int n)
